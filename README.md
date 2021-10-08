@@ -1,5 +1,5 @@
 # pertemuan1_intent
 
-Nama : Rizky Adi Ryanto
+Nama : Veni Septiani
 <br>
 ini merupakan apps praktikum MBKM ITN MALANG
